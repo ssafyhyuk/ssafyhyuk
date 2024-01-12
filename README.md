@@ -1,5 +1,6 @@
-### Hi there 👋
+## 잘 부탁드립니다
 
+### 부족하지만 열심히 배우겠습니다
 <!--
 **ssafyhyuk/ssafyhyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
